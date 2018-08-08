@@ -1,3 +1,7 @@
 this is second file
 changes made second time by shiirish
+<<<<<<< HEAD
 assignment four-move to local, make changes in remote and push from local
+=======
+assignment 4- changes made from remote (file2)
+>>>>>>> refs/remotes/origin/master
